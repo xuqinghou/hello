@@ -4,4 +4,7 @@
   <artifactId>hello</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <build>
+    <finalName>hello</finalName>
+  </build>
 </project>
